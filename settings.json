@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dark_Chocolate_Demon.aternos.me:31137",
+    "ip": "Dark_Chocolate_Demon.aternos.me",
     "port": 31137,
     "version": "",
     "try-creative": false
